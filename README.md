@@ -3,6 +3,8 @@
 :link: A curated list of awesome Architecture software, libraries, resources and shiny things.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and sorted by [awesome-python](https://github.com/vinta/awesome-python) script.
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/awesome-architecture/)
+
 - [Awesome Architecture](#awesome-architecture)
 - [Software](#software)
     - [3D Graphics Software](#3d-graphics-software)
