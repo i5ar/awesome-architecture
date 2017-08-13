@@ -15,6 +15,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and sorted by [
     - [General Productivity Software](#general-productivity-software)
     - [GIS Software](#gis-software)
     - [Layout Software](#layout-software)
+    - [Network Attached Storage](#network-attached-storage)
     - [Node-based Generative Design Software](#node-based-generative-design-software)
     - [Project Management Software](#project-management-software)
     - [Raster Graphics Software](#raster-graphics-software)
@@ -93,6 +94,10 @@ Finite Element Method Software
 
 * [Scribus](http://www.scribus.net/) - Professional page layout.
 
+## Network Attached Storage
+
+* [FreeNAS](http://www.freenas.org/) - NAS software based on FreeBSD.
+
 ## Node-based Generative Design Software
 Node-based GUIs for data visualizations and generative design.
 
@@ -102,7 +107,6 @@ Node-based GUIs for data visualizations and generative design.
 
 * [Odoo](https://github.com/odoo/odoo) - All-in-one management software.
 * [OpenStudio](https://github.com/NREL/OpenStudio) - Building energy modeling tools.
-* [Taiga](https://github.com/taigaio/taiga-front) - Project management web application with scrum in mind.
 
 ## Raster Graphics Software
 
