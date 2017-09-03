@@ -10,6 +10,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and sorted by [
     - [3D Graphics Software](#3d-graphics-software)
     - [3D Rendering Engines](#3d-rendering-engines)
     - [BIM Software](#bim-software)
+    - [Building Management](#building-management)
     - [CAD Software](#cad-software)
     - [FEM Software](#fem-software)
     - [General Productivity Software](#general-productivity-software)
@@ -61,16 +62,12 @@ Computer-Aided Design Software
 
 *There aren't yet powerful open-source CAD applications but we can list promising here.*
 
-* [LibreCAD](https://github.com/LibreCAD/LibreCAD/) - Cross-platform 2D CAD drawing tool.
-
 ## General Productivity Software
 
+* [Atom](https://github.com/atom/atom) - Text editor.
 * [ConvertAll](http://convertall.bellz.org/) - Unit conversion program.
 * [LibreOffice](http://libreoffice.org/) - Office suite.
-* [Notepad++](http://notepad-plus-plus.org/) - Source code editor.
-* [OpenOffice](http://www.openoffice.org/) - Productivity suite.
 * [Pandoc](https://github.com/jgm/pandoc/) - Universal markup converter.
-* [Sejda](https://github.com/torakiki/sejda) - Portable Document Format manipulation layer in Java.
 
 ## GIS Software
 Geographic Information System
@@ -83,6 +80,10 @@ Geographic Information System
 Building Information Modeling
 
 * [ifcOpenShell](http://www.ifcopenshell.org/) - The open source IFC toolkit and geometry engine.
+
+## Building Management
+
+* [Home Assistant](https://github.com/home-assistant/home-assistant) - Home automation platform.
 
 ## FEM Software
 Finite Element Method Software
@@ -116,12 +117,12 @@ Node-based GUIs for data visualizations and generative design.
 
 * [CoffeeSCad](http://coffeescad.net/) - Solid CAD modeling with a CoffeeScript based syntax.
 * [ImplicitCAD](http://www.implicitcad.org/) - Programmatic CAD.
-* [OpenSCAD](https://github.com/openscad/openscad) - Solid 3D CAD objects design.
-* [Processing](https://processing.org/) - Software sketchbook and language.
-    * [p5.js](http://p5js.org/) - JavaScript library for today's web.
-    * [Processing.py](http://py.processing.org/) - Python Mode for Processing.
 * [Open CASCADE](http://www.opencascade.com/) - Development platform for 3D CAD, CAM, CAE.
-    * [PythonOCC](https://github.com/tpaviot/pythonocc-core) - A Python wrapper for the [Open CASCADE Community Edition](https://github.com/tpaviot/oce) library.
+* [OpenSCAD](https://github.com/openscad/openscad) - Solid 3D CAD objects design.
+* [p5.js](http://p5js.org/) - JavaScript library for today's web.
+* [Processing.py](http://py.processing.org/) - Python Mode for Processing.
+* [Processing](https://processing.org/) - Software sketchbook and language.
+* [PythonOCC](https://github.com/tpaviot/pythonocc-core) - A Python wrapper for the [Open CASCADE Community Edition](https://github.com/tpaviot/oce) library.
 * [three.js](http://threejs.org/) - JavaScript 3D library.
 * [X3DOM](http://www.x3dom.org/) - Framework and runtime for 3D graphics on the web.
 
