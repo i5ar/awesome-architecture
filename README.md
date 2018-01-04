@@ -73,6 +73,7 @@ Computer-Aided Design Software
 Geographic Information System
 
 * [GRASS GIS](http://grass.osgeo.org/) - Geographic Resources Analysis Support System suite.
+* [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps.
 * [PostGIS](http://postgis.net/) - Spatial database extender for [PostgreSQL](https://www.postgresql.org/).
 * [QGIS](http://www.qgis.org/) - User friendly Geographic Information System tool.
 
