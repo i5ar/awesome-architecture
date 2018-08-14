@@ -2,18 +2,20 @@
 
 '''
     Description:
-    Sorts the entries at the lowest level and the order of the top-level
-    contents do not match the order of the actual entries.
+        Sorts the entries at the lowest level and the order of the top-level
+        contents do not match the order of the actual entries.
 
     Credits:
-	Vinta
-	https://github.com/vinta/awesome-python
+    ..  _Vinta
+        https://github.com/vinta/awesome-python
+
 '''
+
 
 def main():
     with open('README.md', 'r') as read_me_file:
         read_me = read_me_file.readlines()
-        print(read_me)
+        # print(read_me)
 
     blocks = []
     last_indent = None
@@ -31,9 +33,11 @@ def main():
             last_indent = None
 
     with open('README.md', 'w+') as sorted_file:
-        blocks = [''.join(sorted(block, key=lambda s: s.lower())) for block in blocks]
+        blocks = [''.join(
+            sorted(block, key=lambda s: s.lower())) for block in blocks]
         sorted_file.write(''.join(blocks))
-        print(blocks)
+        # print(blocks)
+
 
 if __name__ == "__main__":
     main()
