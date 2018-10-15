@@ -118,6 +118,7 @@ Node-based GUIs for data visualizations and generative design.
 
 ## Script-based Design Applications
 
+- [CadQuery](https://github.com/dcowden/cadquery) - CadQuery is for 3D CAD what jQuery is for Javascript. Uses Python.
 - [ImplicitCAD](http://www.implicitcad.org/) - Programmatic CAD.
 - [Open CASCADE](http://www.opencascade.com/) - Development platform for 3D CAD, CAM, CAE.
 - [OpenJSCAD](https://www.openjscad.org/) - Libraries for 3D models, as well as 2D models.
