@@ -192,6 +192,7 @@ Awesome Architecture-releated reading materials
 
 - [archdaily](http://www.archdaily.com/) - Plataforma Networks Broadcasting Architecture Worldwide.
 - [world-architects](http://www.world-architects.com/en) - Profiles of Selected Architects.
+- [Software Architect Roadmap](https://roadmap.sh/software-architect) - Complete guide to become a Software Architect.
 
 ## Videos
 Awesome Architecture-related films and television series
