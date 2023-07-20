@@ -125,7 +125,7 @@ Node-based GUIs for data visualizations and generative design.
 - [Processing](https://processing.org/) - Software sketchbook and language.
 - [PythonOCC](https://github.com/tpaviot/pythonocc-core) - A Python wrapper for the [Open CASCADE Community Edition](https://github.com/tpaviot/oce) library.
 - [three.js](http://threejs.org/) - JavaScript 3D library.
-- [X3DOM](http://www.x3dom.org/) - Framework and runtime for 3D graphics on the web.
+- [X3DOM](https://github.com/x3dom/x3dom) - Framework and runtime for 3D graphics on the web.
 
 ## Data Visualization Applications
 
