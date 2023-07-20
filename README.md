@@ -1,6 +1,6 @@
 # Awesome Architecture
 
-:link: A curated list of awesome Architecture software, libraries, resources and shiny things.
+:link: A curated list of awesome software for architects.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and sorted by [awesome-python](https://github.com/vinta/awesome-python) script.
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/awesome-architecture/)
