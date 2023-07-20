@@ -117,13 +117,11 @@ Node-based GUIs for data visualizations and generative design.
 
 ## Script-based Design Applications
 
-- [CadQuery](https://github.com/dcowden/cadquery) - CadQuery is for 3D CAD what jQuery is for Javascript. Uses Python.
+- [CadQuery](https://github.com/CadQuery/cadquery) - CadQuery is for 3D CAD what jQuery is for Javascript. Uses Python.
 - [ImplicitCAD](http://www.implicitcad.org/) - Programmatic CAD.
 - [Open CASCADE](http://www.opencascade.com/) - Development platform for 3D CAD, CAM, CAE.
-- [OpenJSCAD](https://www.openjscad.org/) - Libraries for 3D models, as well as 2D models.
+- [JSCAD](https://github.com/jscad/OpenJSCAD.org) - Libraries for 3D models, as well as 2D models.
 - [OpenSCAD](https://github.com/openscad/openscad) - Solid 3D CAD objects design.
-- [p5.js](http://p5js.org/) - JavaScript library for today's web.
-- [Processing.py](http://py.processing.org/) - Python Mode for Processing.
 - [Processing](https://processing.org/) - Software sketchbook and language.
 - [PythonOCC](https://github.com/tpaviot/pythonocc-core) - A Python wrapper for the [Open CASCADE Community Edition](https://github.com/tpaviot/oce) library.
 - [three.js](http://threejs.org/) - JavaScript 3D library.
