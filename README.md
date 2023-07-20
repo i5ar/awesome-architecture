@@ -54,7 +54,7 @@ Architectural management and design software.
 ## 3D Rendering Engines
 
 - [POV-Ray](https://github.com/POV-Ray/povray) - Persistence of Vision Raytracer.
-- [YafaRay](https://github.com/YafaRay/Core) - Raytracing engine.
+- [YafaRay](https://github.com/YafaRay/libYafaRay) - Raytracing engine.
 
 ## CAD Software
 Computer-Aided Design Software
