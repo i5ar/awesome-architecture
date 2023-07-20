@@ -48,7 +48,6 @@ Architectural management and design software.
 
 - [Blender](http://www.blender.org/) - 3D animation suite.
   - [Enhanced 3D Cursor](https://github.com/dairin0d/enhanced-3d-cursor)
-  - [Sun Position](https://developer.blender.org/diffusion/BAC/browse/master/sun_position/)
   - [Sverchok](https://github.com/nortikin/sverchok)
   - [TinyCAD ](https://github.com/zeffii/mesh_tiny_cad)
 
